@@ -1,0 +1,23 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  trip: one
+  arrival: 2023-10-14 21:28:01
+  departure: 2023-10-14 21:28:01
+  stop: one
+  stop_sequence: MyString
+  stop_headsign: MyString
+  pickup_type: MyString
+  drop_off_type: MyString
+  shape_dist_traveled: MyString
+
+two:
+  trip: two
+  arrival: 2023-10-14 21:28:01
+  departure: 2023-10-14 21:28:01
+  stop: two
+  stop_sequence: MyString
+  stop_headsign: MyString
+  pickup_type: MyString
+  drop_off_type: MyString
+  shape_dist_traveled: MyString
